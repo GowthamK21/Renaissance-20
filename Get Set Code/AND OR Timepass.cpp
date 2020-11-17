@@ -1,4 +1,4 @@
-//codec by Prasanna
+//coded by Prasanna
 #include <cmath>
 #include <cstdio>
 #include <vector>
